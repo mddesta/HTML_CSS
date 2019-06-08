@@ -1,7 +1,39 @@
-.latitude{
-   background-color: teal;
-   color:white
+.titles {
+  color: #0fad9d;
+  font-family: Arial, Helvetica, sans-serif
+  font-weight: bolder;
 }
-h1{
-    color: teal
+#latitude{
+  color: white;
+  background-color: #0fad9d;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif
 }
+.floatleft{
+  float: left
+}
+body{
+  background:lightgray
+}
+#main{
+  background: white;
+  margin-top: 45px;
+  margin-bottom: 15px;
+}
+#visualizations{
+  background: white;
+  margin-top: 45px;
+  margin-bottom: 15px;
+}
+footer{
+  background:#42444e;
+  color: white;
+  text-align: center;
+  position: sticky;
+  width: 100%;
+  border-top: solid #0fad9d 5px;
+  height:50px;
+  margin-top: 15px
+}
+.img-thumbnail{border: 0; width: 80%}
