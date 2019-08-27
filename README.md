@@ -6,7 +6,7 @@ Created a visualization dashboard website using visualizations produced [here](h
 
 ### Technologies 
 
-* html
+* HTML
 * CSS
 * Bootstrap
 
