@@ -1,14 +1,14 @@
 .titles {
   color: #0fad9d;
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bolder;
 }
 #latitude{
   color: white;
   background-color: #0fad9d;
   font-weight: bolder;
-  font-size: 30px;
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 1em
 }
 .floatleft{
   float: left
@@ -20,6 +20,7 @@ body{
   background: white;
   margin-top: 45px;
   margin-bottom: 15px;
+  margin-left: -25px
 }
 #visualizations{
   background: white;
