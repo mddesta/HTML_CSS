@@ -2,7 +2,7 @@
 
 ### Background 
 
-Created a visualization dashboard website using visualizations produced [through python analysis of weather Data](https://github.com/mddesta/WeatherPy). Created individual pages for each plot and a means by which we can navigate between them.
+Created a visualization dashboard website using visualizations produced [through python analysis of weather data](https://github.com/mddesta/WeatherPy). Created individual pages for each plot and a means by which we can navigate between them.
 
 ### Technologies 
 
